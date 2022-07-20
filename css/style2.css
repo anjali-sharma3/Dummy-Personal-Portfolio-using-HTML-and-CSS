@@ -1,6 +1,19 @@
 *{
     margin: 0;
 }
+body p{
+    font-size: 2rem;
+
+}
+body h1{
+    font-size: 3rem;
+}
+body h2{
+    font-size: 2.5rem;
+}
+body h3{
+    font-size: 2rem;
+}
 
 
 .TopBox{
@@ -15,7 +28,7 @@
 
 }
 .TopBox p{
-    font-size: 2.5rem;
+    font-size: 3rem;
     color: #66BFBF;
     font-weight: normal;
     
@@ -87,6 +100,8 @@ body{
     width: 25%;
     float:right;
     margin-left: 30px;
+    position: relative;
+    bottom: 21px;
 
 }
 
@@ -117,4 +132,7 @@ body{
 }
 .contact-me{
     line-height: 2;
+}
+#get-in-touch{
+    margin: auto;
 }
